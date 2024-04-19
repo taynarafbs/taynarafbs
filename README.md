@@ -1,8 +1,8 @@
 ### Hi there, I'm Tay 👋
 
 #### About
-I'm a lawyer and web developer in training.
-- 📚 Nowadays: Doing a Full Stack Web Developer Program on Rocketseat.
+I was a lawyer, now I`m a QA and web developer in training.
+- 📚 Nowadays: working as QA.
 - 👩🏻‍💻 Interests/Future Studies: Java, Python and Ruby.
 - 🌎 Backend.
 

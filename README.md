@@ -1,9 +1,9 @@
 ### Hi there, I'm Tay 👋
 
 #### About
-I was a lawyer, now I'm a QA and web developer in training.
-- 📚 Nowadays: working as QA.
-- 👩🏻‍💻 Interests/Future Studies: Java, Python and Ruby.
+I was a lawyer, worked as a QA. Now I'm a back-end developer in training.
+- 📚 Nowadays: Studying Computer Science
+- 👩🏻‍💻 Interests/Future Studies: Python and Golang.
 - 🌎 Backend.
 
 #### Contacts:
